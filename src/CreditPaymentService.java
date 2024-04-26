@@ -1,4 +1,4 @@
-public class AnnuityPaymentCalculator {
+public class CreditPaymentService {
 
 /*
         ЕП = С * ПС * (1 + ПС)^n / ((1 + ПС)^n -1)  формула платежа

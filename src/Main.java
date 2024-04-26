@@ -10,7 +10,7 @@ public class Main {
         int amount = 1_000_000;
         double rate = 9.99;
 
-        AnnuityPaymentCalculator calculator = new AnnuityPaymentCalculator();
+        CreditPaymentService calculator = new CreditPaymentService();
 
         for (int month = 12; month <= 36; month += 12)
         {
